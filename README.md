@@ -2,7 +2,7 @@
 
 ![screenshot of dalton dmenu](assets/capture01.png)
 
->> In the screenshot, is [my pessoal Dmenu build](https://github.com/edersonferreira/dmenu-edersonferreira), if you want the same Dmenu, go to my repo [edersonferreira/dmenu-edersonferreira](https://github.com/edersonferreira/dmenu-edersonferreira)
+> In the screenshot, is [my pessoal Dmenu build](https://github.com/edersonferreira/dmenu-edersonferreira), if you want the same Dmenu, go to my repo [edersonferreira/dmenu-edersonferreira](https://github.com/edersonferreira/dmenu-edersonferreira)
 
 # Install
 
