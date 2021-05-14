@@ -1,5 +1,7 @@
 # Dalton Dmenu
 
+> Dalton Dmenu is a Vim port of Dalton Theme, check out [Dalton Website](https://edersonferreira.github.io/dalton-website/) to get more dalton theme ports.
+
 ![screenshot of dalton dmenu](assets/capture01.png)
 
 > In the screenshot, is [my pessoal Dmenu build](https://github.com/edersonferreira/dmenu-edersonferreira), if you want the same Dmenu, go to my repo [edersonferreira/dmenu-edersonferreira](https://github.com/edersonferreira/dmenu-edersonferreira)
