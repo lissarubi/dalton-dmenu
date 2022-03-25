@@ -1,10 +1,10 @@
 # Dalton Dmenu
 
-> Dalton Dmenu is a Dmenu port of Dalton Theme, check out [Dalton Website](https://edersonferreira.github.io/dalton-website/) to get more dalton theme ports.
+> Dalton Dmenu is a Dmenu port of Dalton Theme, check out [Dalton Website](https://lissaferreira.github.io/dalton-website/) to get more dalton theme ports.
 
 ![screenshot of dalton dmenu](assets/capture01.png)
 
-> In the screenshot, is [my pessoal Dmenu build](https://github.com/edersonferreira/dmenu-edersonferreira), if you want the same Dmenu, go to my repo [edersonferreira/dmenu-edersonferreira](https://github.com/edersonferreira/dmenu-edersonferreira)
+> In the screenshot, is [my pessoal Dmenu build](https://github.com/lissaferreira/dmenu-lissaferreira), if you want the same Dmenu, go to my repo [lissaferreira/dmenu-lissaferreira](https://github.com/lissaferreira/dmenu-lissaferreira)
 
 # Install
 
@@ -14,7 +14,7 @@ If you don't have a Dmenu build, this repository comes with a default dmenu conf
 
 ```
 cd /tmp
-git clone https://github.com/edersonferreira/dalton-dmenu
+git clone https://github.com/lissaferreira/dalton-dmenu
 cd dalton-dmenu
 sudo make install
 ```
